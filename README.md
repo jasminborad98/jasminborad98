@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jasmin Borad</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" width="400" src="https://i.pinimg.com/originals/59/87/1c/59871c7fb4ca4d906e9ef1f4566cd378.gif" alt="Coding Animation">
+<img align="right" width="400" height="350" src="https://i.pinimg.com/originals/59/87/1c/59871c7fb4ca4d906e9ef1f4566cd378.gif" alt="Coding Animation">
 
 - 🌱 I’m currently learning **Backend Development**
 
