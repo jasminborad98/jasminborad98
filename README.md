@@ -3,13 +3,13 @@
 
 <img align="right" width="400" height="350" src="https://i.pinimg.com/originals/59/87/1c/59871c7fb4ca4d906e9ef1f4566cd378.gif" alt="Coding Animation">
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 💬 Ask me about **Data Structures and Algorithms**
 
 - 📫 How to reach me **jasminborad98@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny!!!**
+- ⚡ Fun fact **Web Development is funny process**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
