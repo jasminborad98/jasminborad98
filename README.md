@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jasmin Borad</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">Software Engineer with a passion for Development and a love for Elegant Solutions. <br> Let's debug life's complexities together</h3>
 
-<img align="right" width="400" height="350" src="https://i.pinimg.com/originals/59/87/1c/59871c7fb4ca4d906e9ef1f4566cd378.gif" alt="Coding Animation">
+<img align="right" width="450" height="350" src="https://i.pinimg.com/originals/59/87/1c/59871c7fb4ca4d906e9ef1f4566cd378.gif" alt="Coding Animation">
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 💻 Software Development Engineer | Enthusiast Coder
+  
+- 🌱 I’m currently learning Full Stack Development
 
-- 💬 Ask me about **Data Structures and Algorithms**
+- 💬 I have deep Interest in DSA & Problem Solving
 
-- 📫 How to reach me **jasminborad98@gmail.com**
-
-- ⚡ Fun fact **Web Development is funny process**
+- ⚡  Every line of code written is a step closer to shaping the future
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,10 +30,10 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> &nbsp
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &nbsp
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> &nbsp
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> &nbsp </p>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> &nbsp </p> <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasminborad98&show_icons=true&locale=en&layout=compact" alt="jasminborad98" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasminborad98&show_icons=true&locale=en&layout=compact" alt="jasminborad98" /></p> <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasminborad98&show_icons=true&locale=en" alt="jasminborad98" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasminborad98&show_icons=true&locale=en" alt="jasminborad98" /></p> <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasminborad98&" alt="jasminborad98" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasminborad98&" alt="jasminborad98" /></p> <br>
