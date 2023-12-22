@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jasmin Borad</h1>
+<h1 align="center">Hello 👋, I'm Jasmin Borad</h1>
 <h3 align="center">Software Engineer with a passion for Development and a love for Elegant Solutions. <br> Let's debug life's complexities together</h3>
 
 <img align="right" width="400" height="330" src="https://i.pinimg.com/originals/59/87/1c/59871c7fb4ca4d906e9ef1f4566cd378.gif" alt="Coding Animation">
