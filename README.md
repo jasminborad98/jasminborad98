@@ -1,6 +1,8 @@
 <h1 align="center">Hello 👋, I'm Jasmin Borad</h1>
 <h3 align="center">Software Engineer with a Passion for New Technologies and a love for Elegant Solutions</h3>
 
+![Profile views](https://komarev.com/ghpvc/?username=jasminborad98)
+
 <img align="right" width="400" height="330" src="https://i.pinimg.com/originals/59/87/1c/59871c7fb4ca4d906e9ef1f4566cd378.gif" alt="Coding Animation">
 
 - 💻 Software Development Engineer | Enthusiast Coder
