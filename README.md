@@ -11,7 +11,8 @@
 
 - 💬 I have deep Interest in DSA & Problem Solving
 
-- ⚡  Every line of code written is a step closer to shaping the future
+- ⚡ Every line of code written is a step closer to shaping the future
+- **Thanks for visiting my profile**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
