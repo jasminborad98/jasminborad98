@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Jasmin Borad</h1>
+<h1 align="center">Hi 👋, I'm Jasmin Borad</h1>
 <h3 align="center">Software Engineer with a Passion for New Technologies and a love for Elegant Solutions</h3>
 
 ![Profile views](https://komarev.com/ghpvc/?username=jasminborad98)
