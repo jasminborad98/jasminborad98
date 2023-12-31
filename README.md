@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Jasmin Borad</h1>
+<!-- <h1 align="center">Hi 👋, I'm Jasmin Borad</h1> -->
+### Hey there :wave:
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+Jasmin+Borad)](https://git.io/typing-svg)
 <h3 align="center">Software Engineer with a Passion for New Technologies and a love for Elegant Solutions</h3>
 
 ![Profile views](https://komarev.com/ghpvc/?username=jasminborad98)
